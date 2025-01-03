@@ -1,3 +1,3 @@
 # foundationCourse-landing-page
 
-didn't added any image 
+didn't add any image 
